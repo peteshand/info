@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": ["info", "function"],
 	"description": "provides os, device information",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"releasenote": "ScreenInfo updates",
 	"contributors": [ "p.j.shand" ],
 	"classPath": "src/"
