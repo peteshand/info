@@ -1,4 +1,4 @@
-package info;
+package info.screen;
 
 import geom.Size;
 #if lime
@@ -76,10 +76,4 @@ class ScreenInfo
 			else return Orientation.PORTRAIT;
 		}
 	}
-}
-
-@:enum abstract Orientation(String) from String to String {
-	
-	public var LANDSCAPE:String = "landscape";
-	public var PORTRAIT:String = "portrait";
 }

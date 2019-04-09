@@ -1,19 +1,9 @@
-package info;
+package info.browser;
 
 /**
  * ...
  * @author P.J.Shand
  */
-class BrowserInfo
-{
-	public var browser(get, null):Browser;
-
-	function get_browser():Browser
-	{
-		throw "needs to be implemented";
-	}
-}
-
 @:enum abstract Browser(String) from String to String {
 	
 	var CHROME = "chrome";
