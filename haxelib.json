@@ -5,7 +5,7 @@
 	"tags": ["info", "function"],
 	"description": "provides os, device information",
 	"version": "1.0.3",
-	"releasenote": "Add Info static class",
+	"releasenote": "Add Info static class.",
 	"contributors": [ "p.j.shand" ],
 	"classPath": "src/"
 }
