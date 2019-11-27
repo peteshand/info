@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"tags": ["info", "function"],
 	"description": "provides os, device information",
-	"version": "1.0.4",
+	"version": "1.0.8",
 	"releasenote": "Add Info static class",
 	"contributors": [ "p.j.shand" ],
 	"classPath": "src/"
